@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+@import url('https://fonts.googleapis.com/css2?family=Sono:wght@300;500&display=swap');
+div.pedar {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  padding: 50px;
+}
+div.item {
+  width: 30%;
+  background-color: pink;
+  padding: 50px;
+  border-radius: 25px;
+  font-family: 'Sono', sans-serif;
+  box-shadow: 5px 5px 5px black;
+  
+}
